@@ -1,4 +1,1 @@
-- 👋 "Hongtu AI" is the brand of Texeljoy Intelligent Technology Co., Ltd. Nanjing, China.
-- 👀 Hongtu AI is the leader of global visual AI empowerment, dedicated to using AI to build a more intelligent way of connecting the world.
-- 🌱 Since 2017, it has been deeply engaged in the research and development and application of visual AI in the field of audio and video. The founding team comes from the Master of Computer Science team of Oregon State University (USA) and University of Connecticut (USA). The core members have worked in Amazon, Microsoft, Boeing, Huawei and other famous enterprises.
-- 💞️ Hongtu AI explores the method of AI combining scenario and ecology, centers on the scheme mode of "AI product + scenario + ecological cooperation", takes audio and video application as the entry scenario, creates AI product matrix serving the whole life cycle of audio and video application, combines eco-partner products, achieve value symbiosis with users. 
+
